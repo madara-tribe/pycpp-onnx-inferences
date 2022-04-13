@@ -16,8 +16,6 @@ process time: 636[ms]
 
 ```zsh
 onnx input shape (1, 299, 299, 3)
-start calculation
-pred_age is  27 & gender is Female
 Inference Latency (milliseconds) is 29.436588287353516 [ms]
 ```
 
