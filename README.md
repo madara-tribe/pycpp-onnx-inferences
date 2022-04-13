@@ -1,7 +1,7 @@
-# onnx models inference b python and c++
+# onnx models inference by python and c++
 
 
-# latency
+# How fast to predict 
 
 ## c++ yolov5
 ```zsh
