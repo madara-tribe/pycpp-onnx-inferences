@@ -1,0 +1,12 @@
+tensorboardX
+visdom
+torchsummary
+easydict
+tensorboard
+scikit-learn 
+matplotlib 
+tqdm
+opencv-python
+fastprogress
+onnx
+onnxruntime
