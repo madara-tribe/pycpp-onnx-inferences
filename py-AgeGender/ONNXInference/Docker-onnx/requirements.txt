@@ -1,0 +1,4 @@
+onnxconverter-common==1.6.0
+onnx==1.6.0
+onnxruntime
+h5py==2.8.0
