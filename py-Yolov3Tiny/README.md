@@ -32,11 +32,11 @@ python3 py_onnx_inference.py ${ONNX_NAME}
 
 ## input
 
-![person](https://user-images.githubusercontent.com/48679574/113898925-4c8d0480-979a-11eb-8858-77ae4af307e8.jpg)
+![person](https://user-images.githubusercontent.com/48679574/163290206-d85a36d8-4b0f-4a8b-a3a6-395ae1c26f26.jpg)
 
 ## output
 
-![output](https://user-images.githubusercontent.com/48679574/113898952-51ea4f00-979a-11eb-8cca-c88aff352ff4.jpg)
+![output](https://user-images.githubusercontent.com/48679574/163290216-c0112aea-0c33-4bef-b12b-4fa6b23c2de9.jpg)
 
 
 # References
