@@ -8,7 +8,7 @@ make cudain
 
 <b>input / output</b>
 
-<img src="https://user-images.githubusercontent.com/48679574/142770834-89c5b959-96c8-4444-9837-39f2db3d18e4.jpg" width="300px"><img src="https://user-images.githubusercontent.com/48679574/142770830-60d7cb79-4e99-4e64-ad3c-606cb5774a07.png" width="300px">
+<img src="https://user-images.githubusercontent.com/48679574/163290432-501dc6f8-f7c7-4f57-9ae0-e7ea89ad32d3.jpg" width="300px"><img src="https://user-images.githubusercontent.com/48679574/163290436-0fe05b87-6d19-415d-a562-ea2987ef86cb.png" width="300px">
 
 
 
