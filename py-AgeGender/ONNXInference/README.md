@@ -24,7 +24,7 @@ Non-trainable params: 34,432
 
 ## target image
 
-![face](https://user-images.githubusercontent.com/48679574/115118963-0131dd80-9f74-11eb-99e4-c8ccbb47b442.jpg)
+![face](https://user-images.githubusercontent.com/48679574/163290201-bccf611e-130a-420c-a7b4-51401cd7652a.jpg)
 
 
 
